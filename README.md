@@ -52,7 +52,7 @@ I am a passionate developer with a strong focus on mobile development, Fintech s
 
 ### 🔗 Connect with me
 <p align="center">
-  <a href="https://www.facebook.com/profile.php?id=100009630750217" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="facebook" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/abdulmajeed-hamzh-67414a209/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" />
   <a href="https://github.com/abdualmajeed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="github" height="30" width="40" /></a>
 </p>
 
