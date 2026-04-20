@@ -13,14 +13,6 @@ I am a passionate developer with a strong focus on mobile development, Fintech s
 
 ---
 
-### 📈 GitHub Stats
-<p align="center">
-  <a href="https://github.com/abdualmajeed">
-    <img src="https://github-readme-stats.vercel.app/api?username=abdualmajeed&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Ammar's GitHub stats" />
-  </a>
-</p>
-
----
 
 ### 🛠 Languages and Tools
 
